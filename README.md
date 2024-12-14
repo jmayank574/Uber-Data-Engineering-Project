@@ -8,7 +8,9 @@ This project demonstrates an end-to-end data analytics pipeline for Uber data us
 
 # Tools and Technologies Used:
 Programming Language: Python
+
 Cloud Services: GCP Storage, Compute Instance, BigQuery, Looker Studio
+
 Modern ETL Tool: Mage.ai
 
 
